@@ -16,11 +16,11 @@
 
 ### About
 
-I work across the disciplines of biotechnology, computational biology, and scientific computing. My focus is translating complex biological data into clear, reproducible, and actionable assets—integrating sequence analytics, structural mechanics, and benchtop experimental grounding.
+I work across the disciplines of biotechnology, computational biology, and scientific computing. My focus is translating complex biological data into clear, reproducible, and actionable assets, integrating sequence analytics, structural mechanics, and benchtop experimental grounding.
 
 * **Computational Biology & Discovery:** Building reproducible pipelines to query genomic datasets, process biological sequences, and evaluate novel candidate molecules.
 * **Macromolecular Biophysics:** Investigating protein and peptide geometry, electrostatic topologies, interfacial interactions, and deep-learning structural models (ESMFold/AlphaFold).
-* **Wet-Lab Grounding:** Grounded in fundamental biochemical and bioprocess engineering principles—including microbial culture, cell kinetics, downstream separation, and spectrophotometric assays.
+* **Wet-Lab Grounding:** Grounded in fundamental biochemical and bioprocess engineering principles - including microbial culture, cell kinetics, downstream separation, and spectrophotometric assays.
 
 ---
 
